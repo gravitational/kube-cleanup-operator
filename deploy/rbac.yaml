@@ -35,4 +35,4 @@ roleRef:
 subjects:
 - kind: ServiceAccount
   name: cleanup-operator
-  namespace: default
+  namespace: cleanup
