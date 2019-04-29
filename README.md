@@ -32,7 +32,7 @@ kubectl create -f https://k8s.io/examples/controllers/job.yaml
 
 ## Docker images
 
-```docker pull quay.io/lwolf/kube-cleanup-operator```
+```docker pull quay.io/gravitational/kube-cleanup-operator```
 
 or you can build it yourself as follows:
 ```
